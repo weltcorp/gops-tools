@@ -4,3 +4,5 @@
   - bun
   - husky
   - commitlint
+- mock
+  - mockery
